@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oleh_halaiko/static/css/main.0cdd6762.css",
+    "main.js": "/oleh_halaiko/static/js/main.a7ec3163.js",
+    "static/media/completed.gif": "/oleh_halaiko/static/media/completed.23af5151177c666e97cf.gif",
+    "static/media/Oleg.png": "/oleh_halaiko/static/media/Oleg.00c0b752f8200e8bb312.png",
+    "static/media/Poppins-Regular.woff": "/oleh_halaiko/static/media/Poppins-Regular.387f9003f984ef1cec60.woff",
+    "static/media/Poppins-Light.woff": "/oleh_halaiko/static/media/Poppins-Light.6f5b7a1c94cb6419bec4.woff",
+    "static/media/Poppins-SemiBold.woff": "/oleh_halaiko/static/media/Poppins-SemiBold.71da8e4f0d76b718897c.woff",
+    "static/media/Poppins-Medium.woff": "/oleh_halaiko/static/media/Poppins-Medium.7e588a26bdac2428f240.woff",
+    "static/media/Oleh_Halaiko.pdf": "/oleh_halaiko/static/media/Oleh_Halaiko.63a32a7bc78f150521de.pdf",
+    "static/media/Poppins-Regular.woff2": "/oleh_halaiko/static/media/Poppins-Regular.ad19729d6a0511212493.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/oleh_halaiko/static/media/Poppins-SemiBold.3c3f3613b59d581739fc.woff2",
+    "static/media/Poppins-Light.woff2": "/oleh_halaiko/static/media/Poppins-Light.9bec05ab7f83d34eb905.woff2",
+    "static/media/Poppins-Medium.woff2": "/oleh_halaiko/static/media/Poppins-Medium.563f976db73ca07d8fc3.woff2",
+    "static/media/avatar_1.jpg": "/oleh_halaiko/static/media/avatar_1.6bd89febdbbfcad51886.jpg",
+    "static/media/Screenshot_2.jpg": "/oleh_halaiko/static/media/Screenshot_2.4c844ace882d59dcc31f.jpg",
+    "index.html": "/oleh_halaiko/index.html",
+    "main.0cdd6762.css.map": "/oleh_halaiko/static/css/main.0cdd6762.css.map",
+    "main.a7ec3163.js.map": "/oleh_halaiko/static/js/main.a7ec3163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cdd6762.css",
+    "static/js/main.a7ec3163.js"
+  ]
+}
